@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "491328396870",
+    "firebase_url": "https://miwork-68e84.firebaseio.com",
+    "project_id": "miwork-68e84",
+    "storage_bucket": "miwork-68e84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491328396870:android:0c5dedafe12c0809",
+        "android_client_info": {
+          "package_name": "com.samuel.miwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491328396870-jsijps6qo8k4lvc46n306qqu5o8mi4cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBJdVOA03ot0o3n0c4Zj7Wr5jl1GArBGQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

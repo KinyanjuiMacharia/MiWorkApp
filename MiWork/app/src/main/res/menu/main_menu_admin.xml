@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_dashboard"
+            android:icon="@drawable/ic_dashboard_black_24dp"
+            android:title="@string/dashboard" />
+
+        <item
+            android:id="@+id/nav_clients"
+            android:icon="@drawable/ic_people_black_24dp"
+            android:title="@string/clients" />
+
+        <item
+            android:id="@+id/nav_limits"
+            android:icon="@drawable/ic_people_black_24dp"
+            android:title="@string/limits" />
+        <item
+            android:id="@+id/nav_client_loan_requests"
+            android:icon="@drawable/ic_apps_black_24dp"
+            android:title="@string/client_loan_requests" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="@string/logout" />
+    </group>
+</menu>
