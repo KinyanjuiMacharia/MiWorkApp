@@ -1,8 +1,4 @@
-# MiWork (Samuel)
+# MiWork
 
-An application for keeping loan inoformation of client including admin
+An application for keeping loan information of client including admin
 functionality.
-
-
-### Author
-M.Allaudin
